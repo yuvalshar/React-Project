@@ -1,4 +1,4 @@
-import UserGreeting from './UserGreeting.jsx'
+import UserGreeting from './UserGreeting';
 
 function App() {
   return (
