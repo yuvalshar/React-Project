@@ -1,9 +1,9 @@
-function App() {
-  const [count, setCount] = useState(0)
+import List from './List.jsx'
 
+function App() {
   return (
     <>
-    
+        <List/>
     </>
   )
 }
